@@ -4,7 +4,7 @@ A complete hardware implementation of the Advanced Encryption Standard (AES) wit
 
 ## Overview
 
-This repository contains a full-stack AES encryption/decryption implementation featuring RTL design, UVM-based verification environment, system-level modeling, and detailed documentation. The implementation supports standard AES key sizes and includes comprehensive coverage analysis.
+This repository contains a full-stack AES encryption implementation featuring RTL design, UVM-based verification environment, system-level modeling, and detailed documentation. The implementation supports standard AES key sizes and includes comprehensive coverage analysis.
 
 ## Features
 
